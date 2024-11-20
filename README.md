@@ -12,7 +12,7 @@ token =
 [app]
 logpath=/var/
 ```
-- you can run app
+- you can run app. consider that we made a default .gitignore in root which is copied in all repos! you can change it.
 
 # Endpoints
 -  List Repositories
